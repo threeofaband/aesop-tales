@@ -1,0 +1,99 @@
+[
+  {
+    "id": "_meta",
+    "author": "canichatandobserve",
+    "name": "Do You Have a Card? [æ]",
+    "almanac": "https://aesop-tales.carrd.co/#countrymouse",
+    "bootlegger": [
+      "Jinx: Country Mouse / Marionette — If the Marionette is in the bag but did not count towards Country Mouse, the Marionette cannot affect the Outsider count."
+    ]
+  },
+  {
+    "id": "steward"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "nightwatchman"
+  },
+  {
+    "id": "fisherman"
+  },
+  {
+    "id": "juggler"
+  },
+  {
+    "id": "soldier"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "hermit"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "sweetheart"
+  },
+  {
+    "id": "barber"
+  },
+  {
+    "id": "harpy"
+  },
+  {
+    "id": "witch"
+  },
+  {
+    "id": "xaan"
+  },
+  {
+    "id": "marionette"
+  },
+  {
+    "id": "boomdandy"
+  },
+  {
+    "id": "nodashii"
+  },
+  {
+    "id": "fanggu"
+  },
+  {
+    "id": "lordoftyphon"
+  },
+  {
+    "id": "bootlegger"
+  },
+  {
+  "id": "countrymouse_aesoptales",
+  "name": "Country Mouse [æ]",
+  "team": "fabled",
+  "ability": "At most 2 characters that can change the Outsider count during set-up are allowed to be in the bag.",
+  "image": "https://aesop-tales.carrd.co/assets/images/image01.png",
+  "flavor": "You may have luxuries and dainties that I have not,” she said as she hurried away, “but I prefer my plain food and simple life in the country with the peace and security that go with it.",
+  "firstNight": 0, 
+  "otherNight": 0
+  }
+]
