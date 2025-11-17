@@ -22,10 +22,10 @@ The game starts with a [**Kazali**](https://wiki.bloodontheclocktower.com/Balloo
 
 ### Jinxes
 [**Sentinel**](https://wiki.bloodontheclocktower.com/Sentinel)
-If the Sentinel is in play, it also counts as being “in the bag”.
+> If the Sentinel is in play, it also counts as being “in the bag”.
 
 [**Marionette**](https://wiki.bloodontheclocktower.com/Marionette)
-If the Marionette is in the bag but did not count towards Country Mouse, the Marionette cannot affect the Outsider count.
+> If the Marionette is in the bag but did not count towards Country Mouse, the Marionette cannot affect the Outsider count.
 
 ### Clarifications and Tips
 [**Huntsman**](https://wiki.bloodontheclocktower.com/Huntsman) *( [+[Damsel](https://wiki.bloodontheclocktower.com/Damsel)] )* and
@@ -35,7 +35,7 @@ are optionally counted as characters that control Outsider count at setup.
 Same for [**Atheist**](https://wiki.bloodontheclocktower.com/Atheist) *( [whatever. Go my rulebreak] )* but that one doesn’t matter as much, does it?
 
 ### Character JSON
-`{
+{
 "id": "countrymouse_aesoptales",
 "name": "Country Mouse [æ]",
 "team": "fabled",
@@ -44,6 +44,6 @@ Same for [**Atheist**](https://wiki.bloodontheclocktower.com/Atheist) *( [whatev
 "flavor": "You may have luxuries and dainties that I have not,” she said as she hurried away, “but I prefer my plain food and simple life in the country with the peace and security that go with it.",
 "firstNight": 0,
 "otherNight": 0
+}
 
-}`
 
