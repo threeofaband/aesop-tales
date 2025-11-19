@@ -36,14 +36,10 @@ Same for [**Atheist**](https://wiki.bloodontheclocktower.com/Atheist) *( [whatev
 
 ### Character JSON
 {
-"id": "countrymouse_aesoptales",
-"name": "Country Mouse [æ]",
-"team": "fabled",
-"ability": "At most 2 characters that can change the Outsider count during set-up are allowed to be in the bag.",
-"image": "https://raw.githubusercontent.com/threeofaband/aesop-tales/refs/heads/main/Fabled%20%5B%C3%A6%5D/Country%20Mouse%20%5B%C3%A6%5D/country_mouse.png",
-"flavor": "You may have luxuries and dainties that I have not,” she said as she hurried away, “but I prefer my plain food and simple life in the country with the peace and security that go with it.",
-"firstNight": 0,
-"otherNight": 0
+  "id": "countrymouse_aesoptales",
+  "name": "Country Mouse [æ]",
+  "team": "fabled",
+  "ability": "At most 2 characters that can change the Outsider count during set-up are allowed to be in the bag.",
+  "image": "https://raw.githubusercontent.com/threeofaband/aesop-tales/refs/heads/main/Fabled%20%5B%C3%A6%5D/Country%20Mouse%20%5B%C3%A6%5D/country_mouse.png",
+  "flavor": "You may have luxuries and dainties that I have not,” she said as she hurried away, “but I prefer my plain food and simple life in the country with the peace and security that go with it."
 }
-
-
