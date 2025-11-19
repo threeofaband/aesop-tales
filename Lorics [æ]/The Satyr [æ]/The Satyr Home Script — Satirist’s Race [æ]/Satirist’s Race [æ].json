@@ -9,10 +9,11 @@
   "knight",
   "noble",
   "general",
+  "villageidiot",
   "undertaker",
+  "innkeeper",
   "monk",
   "gambler",
-  "innkeeper",
   "savant",
   "courtier",
   "soldier",
@@ -21,8 +22,8 @@
   "tinker",
   "moonchild",
   "puzzlemaster",
-  "witch",
   "harpy",
+  "witch",
   "assassin",
   "marionette",
   "yaggababble",
@@ -41,6 +42,5 @@
     "flavor": "I've seen enough. A fellow that blows hot and cold in the same breath cannot be friends with me!",
     "firstNight": 204
   },
-  "sentinel",
-  "villageidiot"
+  "sentinel"
 ]
