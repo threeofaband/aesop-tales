@@ -1,97 +1,45 @@
 [
   {
     "id": "_meta",
-    "author": "canichatandobserve",
     "name": "Do You Have a Card? [æ]",
-    "almanac": "https://github.com/threeofaband/aesop-tales/tree/main/Fabled%20%5B%C3%A6%5D/Country%20Mouse%20%5B%C3%A6%5D/",
+    "author": "canichatandobserve",
+    "almanac": "https://github.com/threeofaband/aesop-tales/edit/main/Fabled%20%5B%C3%A6%5D/Country%20Mouse%20%5B%C3%A6%5D",
     "bootlegger": [
       "Jinx: Country Mouse / Marionette — If the Marionette is in the bag but did not count towards Country Mouse, the Marionette cannot affect the Outsider count."
     ]
   },
-  {
-    "id": "steward"
-  },
-  {
-    "id": "librarian"
-  },
-  {
-    "id": "pixie"
-  },
-  {
-    "id": "empath"
-  },
-  {
-    "id": "balloonist"
-  },
-  {
-    "id": "villageidiot"
-  },
-  {
-    "id": "monk"
-  },
-  {
-    "id": "nightwatchman"
-  },
-  {
-    "id": "fisherman"
-  },
-  {
-    "id": "juggler"
-  },
-  {
-    "id": "soldier"
-  },
-  {
-    "id": "ravenkeeper"
-  },
-  {
-    "id": "mayor"
-  },
-  {
-    "id": "hermit"
-  },
-  {
-    "id": "recluse"
-  },
-  {
-    "id": "sweetheart"
-  },
-  {
-    "id": "barber"
-  },
-  {
-    "id": "harpy"
-  },
-  {
-    "id": "witch"
-  },
-  {
-    "id": "xaan"
-  },
-  {
-    "id": "marionette"
-  },
-  {
-    "id": "boomdandy"
-  },
-  {
-    "id": "nodashii"
-  },
-  {
-    "id": "fanggu"
-  },
-  {
-    "id": "lordoftyphon"
-  },
-  {
-    "id": "bootlegger"
-  },
+  "steward",
+  "librarian",
+  "pixie",
+  "empath",
+  "balloonist",
+  "villageidiot",
+  "monk",
+  "nightwatchman",
+  "fisherman",
+  "juggler",
+  "soldier",
+  "ravenkeeper",
+  "mayor",
+  "hermit",
+  "recluse",
+  "sweetheart",
+  "barber",
+  "harpy",
+  "witch",
+  "xaan",
+  "marionette",
+  "boomdandy",
+  "nodashii",
+  "fanggu",
+  "lordoftyphon",
+  "bootlegger",
   {
     "id": "countrymouse_aesoptales",
-    "name": "Country Mouse [æ]", "team": "fabled",
+    "name": "Country Mouse [æ]",
+    "team": "fabled",
     "ability": "At most 2 characters that can change the Outsider count during set-up are allowed to be in the bag.",
     "image": "https://raw.githubusercontent.com/threeofaband/aesop-tales/refs/heads/main/Fabled%20%5B%C3%A6%5D/Country%20Mouse%20%5B%C3%A6%5D/country_mouse.png",
-    "flavor": "You may have luxuries and dainties that I have not,” she said as she hurried away, “but I prefer my plain food and simple life in the country with the peace and security that go with it.",
-    "firstNight": 0, "otherNight": 0
+    "flavor": "You may have luxuries and dainties that I have not,” she said as she hurried away, “but I prefer my plain food and simple life in the country with the peace and security that go with it."
   }
 ]
