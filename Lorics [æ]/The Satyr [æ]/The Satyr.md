@@ -11,9 +11,9 @@ The Satyr allows for a team to win or lose, if a condition is met.
 ### How to Run
 At the start of the game, declare that the Satyr is in play.
 
-**After the first night**, announce the win condition you or the script writer have chosen to be in play.
+**After the first night**, announce the win or loss condition you or the script writer have chosen to be in play.
 
-You may use the two WORL reminder tokens if you need to.
+You may use the WORL reminder tokens for the win or loss condition if you need to.
 
 ### Examples
 At first dawn, the Storyteller announces that Alyssa's team wins if she gets executed before the final 5. When she is executed, it is after final 5, so the game continues.
@@ -33,6 +33,8 @@ At first dawn, the Storyteller announces that the evil team wins if the Demon ex
 "name": "The Satyr [æ]",
 "team": "loric",
 "ability": "There is a publicly known win/loss condition in play.",
+"firstNightReminder": "Announce the additional win condition that is in play.",
+"reminders": \[ "WORL", "WORL" \],
 "image": "https://raw.githubusercontent.com/threeofaband/aesop-tales/refs/heads/main/Lorics%20%5B%C3%A6%5D/The%20Satyr%20%5B%C3%A6%5D/satyr.png",
 "flavor": "I've seen enough. A fellow that blows hot and cold in the same breath cannot be friends with me!",
 "firstNight": 0,
