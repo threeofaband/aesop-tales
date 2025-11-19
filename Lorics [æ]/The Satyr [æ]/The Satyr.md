@@ -37,5 +37,6 @@ At first dawn, the Storyteller announces that the evil team wins if the Demon ex
 "reminders": \[ "WORL", "WORL" \],
 "image": "https://raw.githubusercontent.com/threeofaband/aesop-tales/refs/heads/main/Lorics%20%5B%C3%A6%5D/The%20Satyr%20%5B%C3%A6%5D/satyr.png",
 "flavor": "I've seen enough. A fellow that blows hot and cold in the same breath cannot be friends with me!",
-"firstNight": 204,
+"firstNight": 204
 }
+
