@@ -29,14 +29,13 @@ At first dawn, the Storyteller announces that the evil team wins if the Demon ex
 
 ### Character JSON
 {
-"id": "satyr_aesoptales",
-"name": "The Satyr [æ]",
-"team": "loric",
-"ability": "There is a publicly known win/loss condition in play.",
-"firstNightReminder": "Announce the additional win condition that is in play.",
-"reminders": \[ "WORL", "WORL" \],
-"image": "https://raw.githubusercontent.com/threeofaband/aesop-tales/refs/heads/main/Lorics%20%5B%C3%A6%5D/The%20Satyr%20%5B%C3%A6%5D/satyr.png",
-"flavor": "I've seen enough. A fellow that blows hot and cold in the same breath cannot be friends with me!",
-"firstNight": 204
+  "id": "satyr_aesoptales",
+  "name": "The Satyr [æ]",
+  "team": "loric",
+  "ability": "There is a publicly known win/loss condition in play.",
+  "firstNightReminder": "Announce the additional win condition that is in play.",
+  "reminders": \[ "WORL", "WORL" \],
+  "image": "https://raw.githubusercontent.com/threeofaband/aesop-tales/refs/heads/main/Lorics%20%5B%C3%A6%5D/The%20Satyr%20%5B%C3%A6%5D/satyr.png",
+  "flavor": "I've seen enough. A fellow that blows hot and cold in the same breath cannot be friends with me!",
+  "firstNight": 204
 }
-
