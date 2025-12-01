@@ -1,4 +1,4 @@
-## Country Mouse (Fabled)
+## Envious Raven (Fabled)
 > Characters might wake in a different order. All players know the details.
 
 *“So he left his home in the woods and fields and flew down to live on the lakes and in the marshes.”*
@@ -27,10 +27,10 @@ The Storyteller does not like meta. He declares that after the first night, play
 
 ### Character JSON
 {
-  "id": "countrymouse_aesoptales",
-  "name": "Country Mouse [æ]",
+  "id": "enviousraven_aesoptales",
+  "name": "Envious Raven [æ]",
   "team": "fabled",
-  "ability": "At most 2 characters that can change the Outsider count during set-up are allowed to be in the bag.",
-  "image": "https://raw.githubusercontent.com/threeofaband/aesop-tales/refs/heads/main/Fabled%20%5B%C3%A6%5D/Country%20Mouse%20%5B%C3%A6%5D/country_mouse.png",
-  "flavor": "You may have luxuries and dainties that I have not,” she said as she hurried away, “but I prefer my plain food and simple life in the country with the peace and security that go with it."
+  "ability": "Characters might wake in a different order. All players know the details.",
+  "image": "https://raw.githubusercontent.com/threeofaband/aesop-tales/refs/heads/main/Fabled%20%5B%C3%A6%5D/Envious%20Raven%20%5B%C3%A6%5D/envious_raven.png",
+  "flavor": "So he left his home in the woods and fields and flew down to live on the lakes and in the marshes."
 }
