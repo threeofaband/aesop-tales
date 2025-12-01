@@ -15,6 +15,14 @@
     "flavor": "You may have luxuries and dainties that I have not,” she said as she hurried away, “but I prefer my plain food and simple life in the country with the peace and security that go with it."
   },
   {
+    "id": "enviousraven_aesoptales",
+    "name": "Envious Raven [æ]",
+    "team": "fabled",
+    "ability": "Characters might wake in a different order. All players know the details.",
+    "image": "https://raw.githubusercontent.com/threeofaband/aesop-tales/refs/heads/main/Fabled%20%5B%C3%A6%5D/Envious%20Raven%20%5B%C3%A6%5D/envious_raven.png",
+    "flavor": "So he left his home in the woods and fields and flew down to live on the lakes and in the marshes."
+  },
+  {
     "id": "satyr_aesoptales",
     "name": "The Satyr [æ]",
     "team": "loric",
