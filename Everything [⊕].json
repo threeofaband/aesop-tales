@@ -1,14 +1,14 @@
 [
   {
     "id": "_meta",
-    "name": "Aesop’s Tales [æ]",
+    "name": "Aesop’s Tales [⊕]",
     "author": "canichatandobserve",
     "almanac": "https://github.com/threeofaband/aesop-tales/"
   },
   "bootlegger",
   {
     "id": "countrymouse_aesoptales",
-    "name": "Country Mouse [æ]",
+    "name": "Country Mouse [⊕]",
     "team": "fabled",
     "ability": "At most 2 characters that can change the Outsider count during set-up are allowed to be in the bag.",
     "image": "https://raw.githubusercontent.com/threeofaband/aesop-tales/refs/heads/main/Fabled%20%5B%C3%A6%5D/Country%20Mouse%20%5B%C3%A6%5D/country_mouse.png",
@@ -16,7 +16,7 @@
   },
   {
     "id": "enviousraven_aesoptales",
-    "name": "Envious Raven [æ]",
+    "name": "Envious Raven [⊕]",
     "team": "fabled",
     "ability": "Characters might wake in a different order. All players know the details.",
     "image": "https://raw.githubusercontent.com/threeofaband/aesop-tales/refs/heads/main/Fabled%20%5B%C3%A6%5D/Envious%20Raven%20%5B%C3%A6%5D/envious_raven.png",
@@ -24,7 +24,7 @@
   },
   {
     "id": "satyr_aesoptales",
-    "name": "The Satyr [æ]",
+    "name": "The Satyr [⊕]",
     "team": "loric",
     "ability": "There is a publicly known win/loss condition in play.",
     "firstNightReminder": "Announce the additional win condition that is in play.",
